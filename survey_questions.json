@@ -1,0 +1,587 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "id": 1,
+      "domain": "Leg Symptoms",
+      "q": "During or after a long sitting session, how often do you notice heaviness in your legs?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 2,
+      "domain": "Leg Symptoms",
+      "q": "How frequently do you experience swelling or puffiness in your feet or ankles after sitting for an extended period?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 3,
+      "domain": "Leg Symptoms",
+      "q": "How often do you feel numbness or tingling sensations in your legs while seated?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 4,
+      "domain": "Leg Symptoms",
+      "q": "How regularly do you experience aching or pain behind your knees during prolonged sitting?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 5,
+      "domain": "Leg Symptoms",
+      "q": "How often does your foot lose sensation ('fall asleep') during a seated study or work session?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 6,
+      "domain": "Leg Symptoms",
+      "q": "How frequently do you feel muscle cramps or tightness in your calves after sitting for a long period?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 7,
+      "domain": "Chair-Fit Indicators",
+      "q": "When seated, how often do you notice uncomfortable pressure at the back of your thighs from the seat edge?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 8,
+      "domain": "Chair-Fit Indicators",
+      "q": "How frequently do your feet dangle or fail to rest flat on the floor while you are seated?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 9,
+      "domain": "Chair-Fit Indicators",
+      "q": "How often does the front edge of your chair press uncomfortably into the underside of your thighs?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 10,
+      "domain": "Chair-Fit Indicators",
+      "q": "How regularly do you feel that your chair height forces you to hold your legs in an awkward or strained position?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 11,
+      "domain": "Postural Behaviour",
+      "q": "How often do you cross your legs or feet under the chair during extended sitting sessions?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 12,
+      "domain": "Postural Behaviour",
+      "q": "How frequently do you notice yourself slouching or shifting your weight to one side when seated for long periods?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 13,
+      "domain": "Postural Behaviour",
+      "q": "How often do you perch on the edge of your chair rather than sitting with your back fully supported?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 14,
+      "domain": "Postural Behaviour",
+      "q": "How frequently do you excessively change your leg position due to discomfort during a single sitting session?",
+      "opts": [
+        [
+          "Never",
+          0
+        ],
+        [
+          "Rarely",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Often",
+          3
+        ],
+        [
+          "Always",
+          4
+        ]
+      ],
+      "reverse": false
+    },
+    {
+      "id": 15,
+      "domain": "Protective Habits",
+      "q": "How often do you take short standing or walking breaks during long sitting sessions? (Protective habit — more = better)",
+      "opts": [
+        [
+          "Always",
+          0
+        ],
+        [
+          "Often",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Rarely",
+          3
+        ],
+        [
+          "Never",
+          4
+        ]
+      ],
+      "reverse": true
+    },
+    {
+      "id": 16,
+      "domain": "Protective Habits",
+      "q": "How regularly do you adjust your chair height so that your feet rest flat and comfortably on the floor? (Protective habit — more = better)",
+      "opts": [
+        [
+          "Always",
+          0
+        ],
+        [
+          "Often",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Rarely",
+          3
+        ],
+        [
+          "Never",
+          4
+        ]
+      ],
+      "reverse": true
+    },
+    {
+      "id": 17,
+      "domain": "Protective Habits",
+      "q": "How often do you use a footrest or similar support when your feet cannot naturally reach the floor? (Protective habit — more = better)",
+      "opts": [
+        [
+          "Always",
+          0
+        ],
+        [
+          "Often",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Rarely",
+          3
+        ],
+        [
+          "Never",
+          4
+        ]
+      ],
+      "reverse": true
+    },
+    {
+      "id": 18,
+      "domain": "Protective Habits",
+      "q": "How frequently do you perform leg stretches or light movements during or after a prolonged sitting session? (Protective habit — more = better)",
+      "opts": [
+        [
+          "Always",
+          0
+        ],
+        [
+          "Often",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Rarely",
+          3
+        ],
+        [
+          "Never",
+          4
+        ]
+      ],
+      "reverse": true
+    },
+    {
+      "id": 19,
+      "domain": "Protective Habits",
+      "q": "How often do you consciously check and correct your sitting posture during a long study or work session? (Protective habit — more = better)",
+      "opts": [
+        [
+          "Always",
+          0
+        ],
+        [
+          "Often",
+          1
+        ],
+        [
+          "Sometimes",
+          2
+        ],
+        [
+          "Rarely",
+          3
+        ],
+        [
+          "Never",
+          4
+        ]
+      ],
+      "reverse": true
+    }
+  ],
+  "psychological_states": {
+    "Minimal Risk": {
+      "range": [
+        0,
+        12
+      ],
+      "colour": "#27ae60",
+      "description": "Excellent leg comfort and sitting habits detected. No ergonomic intervention required at this time. Continue your current routine and maintain regular movement breaks."
+    },
+    "Low Risk": {
+      "range": [
+        13,
+        25
+      ],
+      "colour": "#2ecc71",
+      "description": "Minor leg discomfort or sub-optimal sitting habits detected. Self-monitoring is recommended. Aim to take a short standing break every 30-45 minutes and verify that your feet rest flat on the floor."
+    },
+    "Moderate Risk": {
+      "range": [
+        26,
+        38
+      ],
+      "colour": "#f39c12",
+      "description": "Noticeable leg discomfort and/or inconsistent ergonomic habits detected. Review your chair height, seat depth, and break frequency. Consider using a footrest if your feet do not reach the floor comfortably."
+    },
+    "High Risk": {
+      "range": [
+        39,
+        51
+      ],
+      "colour": "#e67e22",
+      "description": "Significant leg discomfort and poor ergonomic habits identified. A formal workstation ergonomic adjustment is strongly advised. Seek guidance from an occupational health professional or ergonomics advisor."
+    },
+    "Very High Risk": {
+      "range": [
+        52,
+        63
+      ],
+      "colour": "#e74c3c",
+      "description": "Serious leg discomfort patterns and/or severely deficient protective habits detected. A professional ergonomic assessment is urgently recommended. Persistent symptoms such as swelling or numbness should be evaluated by a medical professional."
+    },
+    "Severe Risk": {
+      "range": [
+        64,
+        76
+      ],
+      "colour": "#8e44ad",
+      "description": "Critical ergonomic risk identified. Immediate medical and professional ergonomic evaluation is required. Do not ignore recurring pain, significant swelling, or persistent numbness."
+    }
+  }
+}
